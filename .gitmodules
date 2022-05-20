@@ -1,0 +1,6 @@
+[submodule "src/modules/graphics-library"]
+	path = src/modules/graphics-library
+	url = https://github.com/chromoskein/graphics-library
+[submodule "src/modules/pdb-parser"]
+	path = src/modules/pdb-parser
+	url = https://github.com/chromoskein/pdb-parser

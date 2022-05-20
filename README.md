@@ -1,2 +1,1 @@
-# prototype-template
-Template used by every Chromoskein prototype
+This is a template for any playground of Chromatin.
